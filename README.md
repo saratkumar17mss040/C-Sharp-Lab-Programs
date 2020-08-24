@@ -7,9 +7,9 @@
 -ArrayListDemo.cs
 4. Write a C# program to implement multiple inheritance using interface ?
 -Interface.cs
-5. Write a C# program to demonstrate th use of delegates?
+5. Write a C# program to demonstrate the use of delegates?
 -DelegateDemo.cs
-6. Write a C# program to demonstrate th use of error handling?
+6. Write a C# program to demonstrate the use of error handling?
 -ErrorHandlingDemo.cs
 7. Write a C# Windows Application program to demonstrate the use of TextBox and Button Control ? -TextBoxAndButton.cs
 8. Write a C# Windows Application program to demonstrate the use of Option Button - RadioButton Control - RadioButton.cs
