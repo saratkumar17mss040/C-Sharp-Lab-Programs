@@ -1,4 +1,10 @@
-## Things that i have added in the razor page and js for creating login page with validations
+## Things that i have added in the razor page and js for creating login page with validations.
+
+Learn more about bootstrap (official documentation): https://getbootstrap.com/docs/4.5/getting-started/introduction/ 
+
+Bootstrap classes references: https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/
+
+### I have used some bootstrap classes in Index.cshtml:
 
 Index.cshtml:
 
