@@ -3,7 +3,7 @@
 
 The command generates a Razor Page with a PageModel file. You need to specify the namespace otherwise the default value of MyApp.Namespace is used. Likewise, if you don't specify the Pages directory as the output location, the page will be generated in the folder where the command is executed.
 
-Code that i added in the About page:
+Code that i have added in the razor pages:
 
 About.cshtml:
 
