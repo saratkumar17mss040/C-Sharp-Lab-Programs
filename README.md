@@ -14,3 +14,6 @@
 7. Write a C# Windows Application program to demonstrate the use of TextBox and Button Control ? -TextBoxAndButton.cs
 8. Write a C# Windows Application program to demonstrate the use of Option Button - RadioButton Control - RadioButton.cs
 9. Write a C# Windows Application program to demonstrate the use of ComboList and ListBox Control - ComboListAndListBox.cs
+10. Write a C# Web Application program to make a simple Navigate URL redirect for both
+Relative and Absolute link using ASP.net Razor Pages - NavigateURL.md
+11. Write a C# Web Application program to make a simple form that contains a Login Page with some Validations - LoginPage.md
