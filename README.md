@@ -17,3 +17,7 @@
 10. Write a C# Web Application program to make a simple Navigate URL redirect for both
 Relative and Absolute link using ASP.net Razor Pages - NavigateURL.md
 11. Write a C# Web Application program to make a simple form that contains a Login Page with some Validations - LoginPage.md
+12. Write a C# Web Application program to make a simple ad Rotator - AdRotator.md
+
+If you like to contribute to this project do make a PR or if you find some issues do file an issue as i did these on the run, I am open to opinions, suggestions ! <br/>
+Made with 💚 by sarath !
