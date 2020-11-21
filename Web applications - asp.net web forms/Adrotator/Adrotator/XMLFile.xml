@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>IMG/img1.jpg</ImageUrl>
+    <NavigateUrl>https://unsplash.com/s/photos/coding</NavigateUrl>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>IMG/img2.jpg</ImageUrl>
+    <NavigateUrl>https://unsplash.com/s/photos/programmer</NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>IMG/img3.jpg</ImageUrl>
+    <NavigateUrl>https://unsplash.com/s/photos/code</NavigateUrl>
+  </Ad>
+</Advertisements>
